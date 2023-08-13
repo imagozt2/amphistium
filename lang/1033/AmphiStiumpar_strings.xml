@@ -1,0 +1,127 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <AmphiStiumpar>Pre-flatfish</AmphiStiumpar>
+      <AmphiStiumpar_stt>Pre-flatfish</AmphiStiumpar_stt>
+      <AmphiStiumpar_lower>de Pre-flatfish</AmphiStiumpar_lower>
+      <AmphiStiumpar_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pre-flatfish</b>
+         </color>
+         <br/>
+         Click here to place the Pre-flatfish
+      </AmphiStiumpar_ltt>
+      <!--egg names-->
+      <AmphiStiumpar_Egg>Pre-flatfish ei</AmphiStiumpar_Egg>
+      <AmphiStiumpar_Egg_stt>Pre-flatfish ei</AmphiStiumpar_Egg_stt>
+      <AmphiStiumpar_Egg_lower>het Pre-flatfish ei</AmphiStiumpar_Egg_lower>
+      <AmphiStiumpar_Egg_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pre-flatfish ei</b>
+         </color>
+         <br/>Klik op dit icoon om het Pre-flatfish Ei te selecteren. Beweeg je muis en klik om de Pre-flatfish Ei te plaatsen.
+      </AmphiStiumpar_Egg_ltt>
+</entityname>
+<zoopedia_amphistiumpar>
+ <entry>Pre-flatfish</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AmphiStiumpar/AmphiStiumpar_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                      Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Monte Bolca<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clas: ray-finned fishes <i>(Actinopterygii)</i><br/>Orde: Flatfishes <i>(Pleuronectiformes)</i><br/>Familie: Pre-flatfishes <i>(Amphistiumidae)</i><br/>Gender: Amphistium <i>paradoxum</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun pre-flatfish facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Lived in Eocene</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Lived in Monte Bolca</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Measure 6 cm</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Need 2 stars to adopt the pre-flatfish. 
+   </color>
+   <p/>Amphistium is a fish that lived in Monte Bolca in the Eocene. Measure 4 cm. As the vulgar name implies, pre-flatfish, is the ancestor of the flatfish. It is the transient species of symmetric fishes to flatfishes, with Heteronectes. This fish had a crooked eye, above that of the other side. The eye is not increased by the fact that the fish swam side, since that is what many people would think. This fish had eyes and twisted before swimming side to the bottom. The eye is moved by random mutations, as it could have happened to any other fish, but this species is adapted to the mutation. Amphistium had a smaller field of view, but this way could better measure the distances to catch prey. The natural selection accept the mutation and the fish could continue to evolve to keep an eye on the forehead, as Psettodes, and finally can swim sideways and get both eyes on the same side as Eobothus and other current sole.
+ <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Made by <color r="255" g="231" b="135">Imago</color>
+  </cell>
+ </text>
+</zoopedia_amphistiumpar>
+</ZT2Strings>
